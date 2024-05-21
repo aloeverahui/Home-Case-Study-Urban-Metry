@@ -10,4 +10,5 @@ This analysis is to focus on the household income distribution of the families i
 The objectives are to explore these neighbourhoods using the data available, compare and comment on the median income and affluence. The visualizations that are of interest listed down below with headers referring to these visualization respectively. 
 
 1. Income Range vs Population for Neighbourhood A, B, and C
-2. Comparison of Three Most Populated Income Range Between Neighbourhoods
+2. Comparison of Three Most Populated Income Range Within Neighbourhoods
+3. Ratio of Each Neighbourhood In Most Populated Income Range
