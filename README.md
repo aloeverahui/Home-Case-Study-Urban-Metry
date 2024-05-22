@@ -1,4 +1,4 @@
-# Urban Metry Case Study 1
+# Home Case Study : Urban Metry 1
 
 # 1.0 Introduction
 
